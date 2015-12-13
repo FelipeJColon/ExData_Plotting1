@@ -1,3 +1,28 @@
+## ##################################################################################
+##
+## Exploratory Data Analysis - Course Project I
+##
+## ##################################################################################
+##
+## DISCLAIMER: 
+## This script has been developed for study purposes only. 
+## The script is provided without any warranty of any kind, either express or implied. 
+## The entire risk arising out of the use or performance of the sample script and 
+## documentation remains with you. 
+## In no event shall the author be liable for any damages whatsoever (including, 
+## without limitation, damages for loss of business profits, business interruption, 
+## loss of business information, or other pecuniary loss) arising out of the use of  
+## or inability to use the sample scripts or documentation, even if the author has 
+## been advised of the possibility of such damages. 
+##
+## ##################################################################################
+##
+## Version: 1
+## Created on: 13 Dec 2015
+##
+## Written by: Felipe J Colón-González
+## 
+## ##################################################################################
 
 # Load packages
 require(dplyr)
